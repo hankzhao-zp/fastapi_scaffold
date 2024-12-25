@@ -1,0 +1,4 @@
+**/.vscode/
+**/*.pyc
+**/*.log
+.devcontainer/devcontainer.json
